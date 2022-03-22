@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpieniazek93
-- 👀 I’m interested in getting my head around programming. Also, making games and generative art as side projects.
+- 👀 I’m interested in getting my head around programming. Also, making generative art and games as side projects.
 - 🌱 I’m currently learning basics of coding in C#.
 - 💞️ I’m looking to collaborate on entry level coding projects.
 - 📫 How to reach me: mateuszpieniazek93@gmail.com
